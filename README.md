@@ -59,7 +59,7 @@ Now move on `.\bank-account-project` directory.
 
 We can find `pom.xml`, in this file we could find the configuration of the springs projects.
 The rest of the code are inplicits and all the configuration is in application.properties.
-All service logic is tested, and the code follows the principles of hexagonal architecture.
+All service logic is tested.
 
 About `.\web-app` directoy.
 You could find in Vue quasar web app. Everything is based on components logics.
